@@ -9,13 +9,18 @@ body {
 
 #banquitosAfuera {
     background-image: url("wall7.jpg");
-    margin: 0;
-    padding: 0;
-    font-family: "Impact";
-    color: rgb(172, 0, 0);
-    font-size: 68px;
-    text-align: center;
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
   }
+
+#banquitosAfuera h1 {
+   position: relative;
+   top: 50px;
+   margin: 0 auto;
+   color: rgb(172, 0, 0);
+   font-size: 68px;
+}
 
 h2 {
     font-size: 48px;
