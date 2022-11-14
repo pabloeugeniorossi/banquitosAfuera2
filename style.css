@@ -7,10 +7,9 @@ body {
    visibility: hidden;
 }
 
-h1 {
+#banquitosAfuera {
     background-image: url("wall7.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
+    margin: 0 auto;
     font-family: "Impact";
     color: rgb(172, 0, 0);
     font-size: 68px;
