@@ -9,7 +9,8 @@ body {
 
 h1 {
     background-image: url("wall7.jpg");
-    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
     font-family: "Impact";
     color: rgb(172, 0, 0);
     font-size: 68px;
