@@ -1,0 +1,68 @@
+body {
+   background-color:black;
+   color: white;
+}
+
+.userOnly {
+   visibility: hidden;
+}
+
+h1 {
+    background-image: url("wall7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "Impact";
+    color: rgb(172, 0, 0);
+    font-size: 68px;
+    width: 1500px;
+    height: 480px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 48px;
+  }
+
+h3 {
+    font-size: 28px;
+  }
+
+p {
+    font-size: 18px;
+  }
+
+  #media {
+      background-color: rgb(1, 12, 1);
+      color: whitesmoke;
+  }
+
+ #calendarioTabla {
+    margin: 0 auto;
+ }
+
+ table, td {
+    border: 1px solid rgb(236, 231, 231);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+ }
+
+ table, th {
+    border: 1px solid rgb(236, 231, 231);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+ }
+
+ a, li {
+   display: inline-block;
+   color: #FFF;
+   font-family: 'Oswald', sans-serif;
+   font-size: 16px;
+   font-weight: 300;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 250px;
+ }
