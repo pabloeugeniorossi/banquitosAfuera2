@@ -12,10 +12,11 @@ body {
     background-size: cover;
     background-position: bottom center;
     width: 100%;
+    max-width: 1600px;
     height: 480px;
   }
 
-#banquitosAfuera h1 {
+.banquitosAfuera h1 {
    color: rgb(172, 0, 0);
    font-size: 68px;
    font-family: "Impact";
