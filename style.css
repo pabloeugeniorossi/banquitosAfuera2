@@ -5,6 +5,7 @@ body {
 
 .registerLogin {
    float: right;
+   visibility: hidden;
 }
    
 .userOnly {
