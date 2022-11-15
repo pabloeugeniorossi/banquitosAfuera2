@@ -13,6 +13,7 @@ body {
 
 .banquitosAfuera {
     background-image: url("wall7.jpg");
+    background-repeat: no-repeat;
     background-position: center center;
     max-width: 1400px;
     height: 480px;
