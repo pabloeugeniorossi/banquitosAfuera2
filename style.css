@@ -11,8 +11,7 @@ body {
     background-image: url("wall7.jpg");
     background-size: cover;
     background-position: bottom center;
-    width: 100%;
-    max-width: 1600px;
+    max-width: 1400px;
     height: 480px;
   }
 
