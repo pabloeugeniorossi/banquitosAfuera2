@@ -3,14 +3,17 @@ body {
    color: white;
 }
 
+.registerLogin {
+   float: left;
+}
+   
 .userOnly {
    visibility: hidden;
 }
 
 .banquitosAfuera {
     background-image: url("wall7.jpg");
-    background-size: cover;
-    background-position: bottom center;
+    background-position: center center;
     max-width: 1400px;
     height: 480px;
   }
